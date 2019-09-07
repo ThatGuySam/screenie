@@ -2,7 +2,7 @@
   "version": 2,
   "name": "screenie",
   "scope": "zdx",
-  "alias": ["screenie.zdx.cat"],
+  "alias": ["sccreenie"],
   "public": false,
   "builds": [
     { "src": "api/*.ts", "use": "@now/node", "config": { "maxLambdaSize": "40mb" } },
